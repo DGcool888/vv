@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+   position: fixed;
+   border: 1px solid blue;
+   background-color: blue;
+   color: white;
+   text-decoration: none;
+   padding: 10px;
+   border-radius: 10px;
+   left: 1100px;
+}
+
+.tabl{
+    top: 120px;
+}
+
+.txt{
+  left:1120px;
+}
+
+td:first-child{
+    color:white;
+    background-color: pink;
+}
+
+tr td{
+    border: 1px solid greenyellow;
+}
+
+h1 li{
+background-color: hotpink;
+color: white;
+}
